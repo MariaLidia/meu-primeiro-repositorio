@@ -1,3 +1,7 @@
 # meu-primeiro-repositorio
 
-Este é o meu oprimeiro repositório
+Este é o meu primeiro repositório
+
+Adicionei este paragrafo
+
+e esse também
