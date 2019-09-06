@@ -8,3 +8,6 @@ print("outra linha")
 ## outra seção
 
 print("outra coisa")
+
+print("outra coisa agora")
+  
